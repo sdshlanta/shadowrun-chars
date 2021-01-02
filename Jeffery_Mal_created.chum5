@@ -47,12 +47,12 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>0</karma>
+  <karma>2</karma>
   <special>1</special>
   <totalspecial>1</totalspecial>
   <totalattributes>24</totalattributes>
   <contactpoints>9</contactpoints>
-  <contactpointsused>0</contactpointsused>
+  <contactpointsused>9</contactpointsused>
   <spelllimit>10</spelllimit>
   <cfplimit>0</cfplimit>
   <ainormalprogramlimit>0</ainormalprogramlimit>
@@ -62,9 +62,9 @@
   <notoriety>0</notoriety>
   <publicawareness>0</publicawareness>
   <burntstreetcred>0</burntstreetcred>
-  <created>False</created>
+  <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>0.000</nuyen>
+  <nuyen>8479.000</nuyen>
   <startingnuyen>50000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -228,7 +228,7 @@
       <base>0</base>
       <karma>0</karma>
       <metatypecategory>Special</metatypecategory>
-      <totalvalue>0</totalvalue>
+      <totalvalue>1</totalvalue>
     </attribute>
   </attributes>
   <magenabled>True</magenabled>
@@ -273,7 +273,6 @@
         <base>0</base>
         <notes />
         <name>Aeronautics Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ff2b7a90-e6cb-4086-a39f-7b5cb888b4f1</guid>
@@ -284,7 +283,6 @@
         <base>0</base>
         <notes />
         <name>Alchemy</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e62635ef-1bc0-4313-98d7-70f5f2513784</guid>
@@ -295,7 +293,6 @@
         <base>0</base>
         <notes />
         <name>Animal Handling</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>73ba4f03-bd36-4ce3-bd2c-e4576d131e2c</guid>
@@ -306,7 +303,6 @@
         <base>0</base>
         <notes />
         <name>Arcana</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2dcbef92-fe27-4fb3-a9d9-419abc22aa18</guid>
@@ -317,7 +313,6 @@
         <base>0</base>
         <notes />
         <name>Archery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>14f54c8f-b663-490d-a765-6236599c92cd</guid>
@@ -328,7 +323,6 @@
         <base>0</base>
         <notes />
         <name>Armorer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e565cb10-fd27-4916-b6da-33ddfe54fa98</guid>
@@ -339,7 +333,6 @@
         <base>0</base>
         <notes />
         <name>Artificing</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>61c1fff5-5b6d-4fbd-8e8e-a411673c526b</guid>
@@ -350,7 +343,6 @@
         <base>0</base>
         <notes />
         <name>Artisan</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>045a644a-b53f-4351-9b5f-0c6240f02211</guid>
@@ -361,7 +353,6 @@
         <base>1</base>
         <notes />
         <name>Assensing</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>c89cedcc-6031-48c9-b110-450720fdde7b</guid>
@@ -372,7 +363,6 @@
         <base>3</base>
         <notes />
         <name>Astral Combat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>0ad42e46-1d09-41b2-917b-d14a2e2bde00</guid>
@@ -383,7 +373,6 @@
         <base>0</base>
         <notes />
         <name>Automatics</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>1d676b69-9ba0-4847-a4ec-c598fa275987</guid>
@@ -394,7 +383,6 @@
         <base>0</base>
         <notes />
         <name>Automotive Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>42ee35fc-2149-46e0-86e2-bca233fabbbb</guid>
@@ -405,7 +393,6 @@
         <base>0</base>
         <notes />
         <name>Banishing</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3b25ed41-5a87-4f01-81d5-c52acdc68f0a</guid>
@@ -416,7 +403,6 @@
         <base>0</base>
         <notes />
         <name>Binding</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>931cd09f-1769-403c-94b5-63bb6cdd8599</guid>
@@ -427,7 +413,6 @@
         <base>0</base>
         <notes />
         <name>Biotechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4c5dc51f-409f-4215-bdf8-10556ef3b137</guid>
@@ -438,7 +423,6 @@
         <base>0</base>
         <notes />
         <name>Blades</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>6b5931e9-0a85-4e8b-9364-ab8ff5080aa4</guid>
@@ -449,7 +433,6 @@
         <base>0</base>
         <notes />
         <name>Chemistry</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>59165337-0945-42cc-b83f-5330066f3088</guid>
@@ -460,7 +443,6 @@
         <base>0</base>
         <notes />
         <name>Clubs</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>046a8a0f-25d3-4cdc-9be6-9065b03630c4</guid>
@@ -471,7 +453,6 @@
         <base>0</base>
         <notes />
         <name>Computer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a4b86f84-c968-44a8-8578-c7baa172e934</guid>
@@ -482,7 +463,6 @@
         <base>0</base>
         <notes />
         <name>Con</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>03627739-bfcc-4a30-ba73-29678d525a29</guid>
@@ -493,7 +473,6 @@
         <base>4</base>
         <notes />
         <name>Counterspelling</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>a7f278cc-d48e-44cd-8520-bb75515b6916</guid>
@@ -511,7 +490,6 @@
         <base>0</base>
         <notes />
         <name>Cybercombat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a9e170bd-37ee-4ae7-a75f-baeeeb623d37</guid>
@@ -522,7 +500,6 @@
         <base>0</base>
         <notes />
         <name>Cybertechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>97f05ab2-3081-4bab-9740-1ceb20aebea8</guid>
@@ -533,7 +510,6 @@
         <base>0</base>
         <notes />
         <name>Demolitions</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>593e93cf-5fea-4784-ae7f-88c2c7c459d9</guid>
@@ -544,7 +520,6 @@
         <base>0</base>
         <notes />
         <name>Disenchanting</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>914a915a-9f35-4b7f-ad35-3cfdd59af035</guid>
@@ -555,7 +530,6 @@
         <base>0</base>
         <notes />
         <name>Disguise</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>991d65e6-4371-4a9e-b223-d103805c314b</guid>
@@ -566,7 +540,6 @@
         <base>0</base>
         <notes />
         <name>Diving</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>71774187-66eb-465d-8994-cee86fde64f2</guid>
@@ -577,7 +550,6 @@
         <base>0</base>
         <notes />
         <name>Electronic Warfare</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ef53421d-7da0-4e3b-9961-c4d8f9f577f4</guid>
@@ -588,7 +560,6 @@
         <base>0</base>
         <notes />
         <name>Escape Artist</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f4ac0d15-18cb-4f53-9129-0854fa2d8013</guid>
@@ -599,7 +570,6 @@
         <base>0</base>
         <notes />
         <name>Etiquette</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>dfd7f568-e522-42af-8ef6-6b4f0f00955c</guid>
@@ -610,7 +580,6 @@
         <base>0</base>
         <notes />
         <name>First Aid</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e8c0a6c9-afa1-4217-a28b-7530b7c3ce12</guid>
@@ -621,7 +590,6 @@
         <base>0</base>
         <notes />
         <name>Flight</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2e4c9da2-0039-4eca-90ae-1fb8fa1a3946</guid>
@@ -632,7 +600,6 @@
         <base>0</base>
         <notes />
         <name>Forgery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>aa2ef6bd-cf77-47b0-a489-5069a17020e4</guid>
@@ -643,7 +610,6 @@
         <base>0</base>
         <notes />
         <name>Free-Fall</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>183c7568-3816-403a-b4e3-71fc91b19ba4</guid>
@@ -654,7 +620,6 @@
         <base>0</base>
         <notes />
         <name>Gunnery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ddb5b1fe-fb19-45af-9319-859979233334</guid>
@@ -665,7 +630,6 @@
         <base>0</base>
         <notes />
         <name>Gymnastics</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a82e7675-8cc0-4554-9ea0-1bc2a7a1837d</guid>
@@ -676,7 +640,6 @@
         <base>0</base>
         <notes />
         <name>Hacking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7558a29c-b387-40f2-ba14-a26634665fee</guid>
@@ -687,7 +650,6 @@
         <base>0</base>
         <notes />
         <name>Hardware</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a4daff55-db3e-48ae-bcc9-a915c074cd76</guid>
@@ -698,7 +660,6 @@
         <base>0</base>
         <notes />
         <name>Heavy Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>5109e46a-8ab9-450c-b270-fe1a2acd3e69</guid>
@@ -709,7 +670,6 @@
         <base>0</base>
         <notes />
         <name>Impersonation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>32d22ea5-9958-42c0-b6dc-5e65366f33a6</guid>
@@ -720,7 +680,6 @@
         <base>0</base>
         <notes />
         <name>Industrial Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>c8cffd6f-a59e-45ec-a0f0-a1c8b488a42d</guid>
@@ -731,7 +690,6 @@
         <base>0</base>
         <notes />
         <name>Instruction</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>efceaa48-75af-44dc-809e-c02404d214be</guid>
@@ -742,7 +700,6 @@
         <base>0</base>
         <notes />
         <name>Intimidation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>c4b13cb2-86e0-4eec-a46a-7b8375e88074</guid>
@@ -753,7 +710,6 @@
         <base>0</base>
         <notes />
         <name>Leadership</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a7b6c954-e56a-41e6-aff1-7d2072aeacc8</guid>
@@ -764,7 +720,6 @@
         <base>0</base>
         <notes />
         <name>Locksmith</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d7f6912b-bea7-4def-ae20-81f6368b453c</guid>
@@ -775,7 +730,6 @@
         <base>0</base>
         <notes />
         <name>Longarms</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>81a93e63-f4d0-4c74-90a8-cfc4dee8db4e</guid>
@@ -786,7 +740,6 @@
         <base>0</base>
         <notes />
         <name>Medicine</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a7a1bbef-1c58-4524-a4a8-e50cb1aaa382</guid>
@@ -797,7 +750,6 @@
         <base>0</base>
         <notes />
         <name>Nautical Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b833159c-6e9b-4fb5-bfb0-a1b23714590e</guid>
@@ -808,7 +760,6 @@
         <base>0</base>
         <notes />
         <name>Navigation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4d30c9a4-660a-4c0f-98b7-b7a3b3492a93</guid>
@@ -819,7 +770,6 @@
         <base>2</base>
         <notes />
         <name>Negotiation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>6b917b91-0c09-4b8c-996f-bda8c1378ff5</guid>
@@ -830,7 +780,6 @@
         <base>0</base>
         <notes />
         <name>Palming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>874c525f-6dc6-4dcf-be57-3eff7a482760</guid>
@@ -841,7 +790,6 @@
         <base>3</base>
         <notes />
         <name>Perception</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ad145037-3d93-42d3-86d2-f58c442835a3</guid>
@@ -852,7 +800,6 @@
         <base>0</base>
         <notes />
         <name>Performance</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9e704771-a1e5-4f69-84b9-a5aeb707a946</guid>
@@ -863,7 +810,6 @@
         <base>0</base>
         <notes />
         <name>Pilot Aerospace</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e04128bb-7ef7-4292-a183-b249b2cb5b97</guid>
@@ -874,7 +820,6 @@
         <base>0</base>
         <notes />
         <name>Pilot Aircraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4a82a67c-b11f-4d71-bad9-9a04b8ac03a3</guid>
@@ -885,7 +830,6 @@
         <base>0</base>
         <notes />
         <name>Pilot Ground Craft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>32a53577-9dd2-433d-b08c-5b6ce1441871</guid>
@@ -896,7 +840,6 @@
         <base>0</base>
         <notes />
         <name>Pilot Walker</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7010e2d9-eb15-4629-a46b-de6395542376</guid>
@@ -907,7 +850,6 @@
         <base>0</base>
         <notes />
         <name>Pilot Watercraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3f3e300b-3e7c-4876-824d-9d52cc221036</guid>
@@ -918,7 +860,6 @@
         <base>0</base>
         <notes />
         <name>Pistols</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>08eb0991-2e2f-4f6d-86a6-336aa905e733</guid>
@@ -929,7 +870,6 @@
         <base>0</base>
         <notes />
         <name>Ritual Spellcasting</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>6e18c87b-d6d0-4670-9e4a-76be0bedc32b</guid>
@@ -940,7 +880,6 @@
         <base>1</base>
         <notes />
         <name>Running</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b67ee2b5-7edc-4c32-90da-f397156b409f</guid>
@@ -951,7 +890,6 @@
         <base>4</base>
         <notes />
         <name>Sneaking</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>0b2e6385-6ca4-412b-becf-6f1a23b4f664</guid>
@@ -969,7 +907,6 @@
         <base>0</base>
         <notes />
         <name>Software</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>27aed2d4-00a8-4dc7-a760-06da26766998</guid>
@@ -980,7 +917,6 @@
         <base>1</base>
         <notes />
         <name>Spellcasting</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>affa0405-d84e-49ad-892e-a472ccec753f</guid>
@@ -998,7 +934,6 @@
         <base>0</base>
         <notes />
         <name>Summoning</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>90dbebe1-59d4-4d0c-9b8c-fa4f4a7d9cd2</guid>
@@ -1009,7 +944,6 @@
         <base>0</base>
         <notes />
         <name>Survival</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7c73c215-6c9d-40e0-80b0-e06924e74e94</guid>
@@ -1020,7 +954,6 @@
         <base>0</base>
         <notes />
         <name>Swimming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>bb4ce35d-f284-42ea-b06e-6999b961d989</guid>
@@ -1031,7 +964,6 @@
         <base>0</base>
         <notes />
         <name>Throwing Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>13017404-86ea-4ccc-a4c3-302e3fe5d69f</guid>
@@ -1042,7 +974,6 @@
         <base>0</base>
         <notes />
         <name>Tracking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>74467101-2507-4a85-a259-9bc114bae11e</guid>
@@ -1053,7 +984,6 @@
         <base>0</base>
         <notes />
         <name>Unarmed Combat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
     </skills>
     <knoskills>
@@ -1065,7 +995,6 @@
         <karma>0</karma>
         <base>6</base>
         <notes />
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>0687f94d-a2e1-4d21-ab3c-c83d1a289edc</guid>
@@ -1084,7 +1013,6 @@
         <karma>0</karma>
         <base>5</base>
         <notes />
-        <buywithkarma>False</buywithkarma>
         <name>Magical Threats</name>
         <type>Academic</type>
       </skill>
@@ -1096,7 +1024,6 @@
         <karma>0</karma>
         <base>5</base>
         <notes />
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>7b036279-95b9-4f50-86fc-47c4335cc111</guid>
@@ -1196,64 +1123,7 @@
       </group>
     </groups>
   </newskills>
-  <contacts>
-    <contact>
-      <name>Mitchel Joginson</name>
-      <role>Parasecurity Expert</role>
-      <location />
-      <connection>4</connection>
-      <loyalty>3</loyalty>
-      <metatype>Human</metatype>
-      <sex>Male</sex>
-      <age>Middle-Aged</age>
-      <contacttype>Support</contacttype>
-      <preferredpayment>Cash (Credstick)</preferredpayment>
-      <hobbiesvice>Bad Habit (Novacoke)</hobbiesvice>
-      <personallife>None of Your Damn Business</personallife>
-      <type>Contact</type>
-      <file />
-      <relative />
-      <notes />
-      <groupname />
-      <colour>0</colour>
-      <group>False</group>
-      <family>False</family>
-      <blackmail>False</blackmail>
-      <free>False</free>
-      <groupenabled>True</groupenabled>
-      <guid>a938c016-6543-4246-a6c8-40211082b4e6</guid>
-      <mainmugshotindex>-1</mainmugshotindex>
-      <mugshots />
-    </contact>
-    <contact>
-      <name />
-      <role>Fence</role>
-      <location />
-      <connection>1</connection>
-      <loyalty>1</loyalty>
-      <metatype>Ork</metatype>
-      <sex>Female</sex>
-      <age>Old</age>
-      <contacttype>Support</contacttype>
-      <preferredpayment>Barter (Easy-to-Sell Items)</preferredpayment>
-      <hobbiesvice>Entertainment (RPGs, ARLARP, Graphic Novels)</hobbiesvice>
-      <personallife>Single</personallife>
-      <type>Contact</type>
-      <file />
-      <relative />
-      <notes />
-      <groupname />
-      <colour>0</colour>
-      <group>False</group>
-      <family>False</family>
-      <blackmail>False</blackmail>
-      <free>False</free>
-      <groupenabled>True</groupenabled>
-      <guid>12b84ebc-9703-4038-8292-35b94d8fe27d</guid>
-      <mainmugshotindex>-1</mainmugshotindex>
-      <mugshots />
-    </contact>
-  </contacts>
+  <contacts />
   <spells>
     <spell>
       <sourceid>c09e8bb5-4bed-44f9-a41c-bed6a4deb871</sourceid>
@@ -6039,61 +5909,7 @@
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>False</allowrename>
-      <children>
-        <gear>
-          <sourceid>45b1f2c4-99a3-421b-8c83-a7f574ecd39f</sourceid>
-          <guid>ecb59089-856b-404e-ac25-92ba9f733922</guid>
-          <name>Nuyen (¥)</name>
-          <category>Currency</category>
-          <capacity>[1]</capacity>
-          <armorcapacity />
-          <minrating />
-          <maxrating />
-          <rating>0</rating>
-          <qty>1079</qty>
-          <avail>0</avail>
-          <cost>1</cost>
-          <extra />
-          <bonded>False</bonded>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <stolen>False</stolen>
-          <bonus>
-          </bonus>
-          <wirelessbonus>
-          </wirelessbonus>
-          <source>SR5</source>
-          <page>442</page>
-          <canformpersona />
-          <devicerating />
-          <gearname />
-          <forcedvalue />
-          <matrixcmfilled>0</matrixcmfilled>
-          <matrixcmbonus>0</matrixcmbonus>
-          <parentid />
-          <allowrename>False</allowrename>
-          <children />
-          <location />
-          <notes />
-          <discountedcost>False</discountedcost>
-          <programlimit />
-          <overclocked>None</overclocked>
-          <attack />
-          <sleaze />
-          <dataprocessing />
-          <firewall />
-          <attributearray />
-          <modattack />
-          <modsleaze />
-          <moddataprocessing />
-          <modfirewall />
-          <modattributearray />
-          <canswapattributes>False</canswapattributes>
-          <active>False</active>
-          <homenode>False</homenode>
-          <sortorder>0</sortorder>
-        </gear>
-      </children>
+      <children />
       <location />
       <notes />
       <discountedcost>False</discountedcost>
@@ -6722,6 +6538,29 @@
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>DEP</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>1</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>EssenceLoss</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits>
@@ -6753,7 +6592,72 @@
       <id>dc7ce567-18c7-4101-b16c-0d4930f3af81</id>
     </mentorspirit>
   </mentorspirits>
-  <expenses />
+  <expenses>
+    <expense>
+      <guid>7b09c7c0-6adb-4143-ac7e-219b7be598d9</guid>
+      <date>2020-12-23T16:46:05</date>
+      <amount>600.000</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e3bf3d68-af27-4d35-8296-aedc518c7ee4</guid>
+      <date>2020-12-27T01:00:13</date>
+      <amount>6800</amount>
+      <reason>Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ba043c03-ed53-4e6a-b31c-f75638a529b0</guid>
+      <date>2020-12-27T01:00:38</date>
+      <amount>2</amount>
+      <reason>Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>301aa1ab-9c0b-4a01-8ba9-8329b9b537b2</guid>
+      <date>2020-12-27T15:38:45</date>
+      <amount>1079</amount>
+      <reason>Convert char creation caryover credstick</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+  </expenses>
   <gearlocations />
   <armorlocations />
   <vehiclelocations />
