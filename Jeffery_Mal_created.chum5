@@ -6663,15 +6663,32 @@
   <vehiclelocations />
   <weaponlocations />
   <improvementgroups />
-  <calendar />
+  <calendar>
+    <week>
+      <guid>49253ec2-ab69-4ed9-a818-559dbc73a634</guid>
+      <year>2072</year>
+      <week>3</week>
+      <notes />
+    </week>
+    <week>
+      <guid>cfd8cd78-8fa6-458c-8805-aa7901ac2b1f</guid>
+      <year>2072</year>
+      <week>2</week>
+      <notes />
+    </week>
+    <week>
+      <guid>3d648367-af1d-49ff-9954-3e20363ae987</guid>
+      <year>2072</year>
+      <week>1</week>
+      <notes />
+    </week>
+  </calendar>
   <sources>
     <source>SG</source>
     <source>SR5</source>
     <source>RF</source>
   </sources>
-  <customdatadirectorynames>
-    <directoryname>Trolls Have Natural Weapon Horns</directoryname>
-  </customdatadirectorynames>
+  <customdatadirectorynames />
   <calculatedvalues>
     <!--these values are not loaded and only stored here for third parties, who parse this files (to not have to calculate them themselves)-->
     <physicalcm>11</physicalcm>
