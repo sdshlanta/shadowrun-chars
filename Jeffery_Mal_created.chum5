@@ -47,7 +47,7 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>6</karma>
+  <karma>8</karma>
   <special>1</special>
   <totalspecial>1</totalspecial>
   <totalattributes>24</totalattributes>
@@ -64,7 +64,7 @@
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>3226.000</nuyen>
+  <nuyen>3876.000</nuyen>
   <startingnuyen>50000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -6757,6 +6757,38 @@
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>1b1afe61-b288-4481-89be-b57b820095d8</guid>
+      <date>2021-01-24T03:03:52</date>
+      <amount>2</amount>
+      <reason>Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>805e84b3-611c-4e19-b09a-9fd0ab30a586</guid>
+      <date>2021-01-24T03:04:36</date>
+      <amount>650</amount>
+      <reason>Credsticks from Mc'Hughs</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />
