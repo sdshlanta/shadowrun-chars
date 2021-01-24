@@ -64,7 +64,7 @@
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>3229.000</nuyen>
+  <nuyen>3226.000</nuyen>
   <startingnuyen>50000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -6745,6 +6745,22 @@
       <type>Nuyen</type>
       <refund>False</refund>
       <forcecareervisible>False</forcecareervisible>
+    </expense>
+    <expense>
+      <guid>843ddc96-d38c-49b1-8752-d8e3a5420331</guid>
+      <date>2021-01-23T22:53:46</date>
+      <amount>-3</amount>
+      <reason>1 Hugh burger</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
     </expense>
   </expenses>
   <gearlocations />
