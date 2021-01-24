@@ -6754,6 +6754,12 @@
   <improvementgroups />
   <calendar>
     <week>
+      <guid>c4adff25-23ab-4fa1-8b4f-8a7374cb887a</guid>
+      <year>2072</year>
+      <week>4</week>
+      <notes />
+    </week>
+    <week>
       <guid>49253ec2-ab69-4ed9-a818-559dbc73a634</guid>
       <year>2072</year>
       <week>3</week>
