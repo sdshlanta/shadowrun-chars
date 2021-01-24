@@ -47,7 +47,7 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>2</karma>
+  <karma>6</karma>
   <special>1</special>
   <totalspecial>1</totalspecial>
   <totalattributes>24</totalattributes>
@@ -58,13 +58,13 @@
   <ainormalprogramlimit>0</ainormalprogramlimit>
   <aiadvancedprogramlimit>0</aiadvancedprogramlimit>
   <currentcounterspellingdice>0</currentcounterspellingdice>
-  <streetcred>0</streetcred>
-  <notoriety>0</notoriety>
+  <streetcred>2</streetcred>
+  <notoriety>1</notoriety>
   <publicawareness>0</publicawareness>
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>8479.000</nuyen>
+  <nuyen>3229.000</nuyen>
   <startingnuyen>50000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -6656,6 +6656,95 @@
         <qty>0</qty>
         <extra />
       </undo>
+    </expense>
+    <expense>
+      <guid>43cf5122-19d9-4919-a5b8-b2dcbe7d1fdc</guid>
+      <date>2021-01-09T23:41:39</date>
+      <amount>1000</amount>
+      <reason>Upfront re-negotaion</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ce2ce515-8fe4-4f7d-bdee-fba9c919ec53</guid>
+      <date>2021-01-14T23:42:53</date>
+      <amount>4</amount>
+      <reason>Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>af38dc9f-acc2-440f-8deb-0cc8f5907968</guid>
+      <date>2021-01-15T00:31:36</date>
+      <amount>-3000</amount>
+      <reason>Car Payment</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>b4945d5f-90f0-407d-8fcd-b2540f1f49b9</guid>
+      <date>2021-01-15T00:33:11</date>
+      <amount>-1250</amount>
+      <reason>Slap patches</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>2e22e858-ad4a-487e-aeed-6b3439eae00c</guid>
+      <date>2021-01-15T00:50:17</date>
+      <amount>-2000.0</amount>
+      <reason>Purchased Lifestyle Low</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>IncreaseLifestyle</nuyentype>
+        <objectid>be26c47e-22f3-45b1-9076-796782738936</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c2c9d835-9d2b-458b-901e-a19a4d746795</guid>
+      <date>2021-01-15T00:50:19</date>
+      <amount>0</amount>
+      <reason>Decremented Lifestyle Low</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
     </expense>
   </expenses>
   <gearlocations />
